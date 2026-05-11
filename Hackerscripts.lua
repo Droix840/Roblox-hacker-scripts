@@ -6,8 +6,8 @@ local char = siposa.Character
 local hum = char.Humanoid
 local red = Color3.fromRGB(255,0,0)
 local black = Color3.fromRGB(0,0,0)
-local lrarm = char.RightLowerArm
-local urarm = char.RightUpperArm
+local rlarm = char.RightLowerArm
+local ruarm = char.RightUpperArm
 local llarm = char.LeftLowerArm
 local ularm = char.LeftUpperArm
 local rhand = char.RightHand
@@ -49,7 +49,21 @@ end
 end)
 --animation
 while true do
-
+rlarm = 
+ruarm = 
+llarm = 
+ularm = 
+rhand = 
+lhand = 
+head = 
+utorso = 
+ltorso = 
+ruleg = 
+rlleg = 
+rfoot = 
+luleg = 
+llleg = 
+lfoot = 
 end
 --[[
 while true do
